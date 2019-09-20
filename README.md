@@ -50,4 +50,4 @@ Download the data as CSV files and calculate the portfolio returns.
 
 
 Add your portfolio returns to the DataFrame with the other portfolios and rerun the analysis. How does your portfolio fair?
-It fairs pretty well.
+It fairs pretty well. It is very correlated.
