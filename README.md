@@ -1,5 +1,5 @@
-# Pandas_HW_3
-Pandas_HW_3
+Using Pandas to plot and compare portfolios
+
 Performance Analysis
 
 Calculate and plot cumulative returns. Does any portfolio outperform the S&P 500?
